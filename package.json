@@ -1,0 +1,21 @@
+{
+  "name": "mmm-stavangercitybike",
+  "version": "1.0.0",
+  "description": "MagicMirror module for displaying available CityBikes in Stavanger",
+  "main": "MMM-StavangerCityBike.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MagicMirror",
+    "Stavanger",
+    "CityBike"
+  ],
+  "author": "Andreas Lilleskare",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
